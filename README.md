@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=jjguitar&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
+Heyy!! It's me Jhon Trillos, developer, tech lover and continuous student.
+
+🔭 I’m currently working on Sotfware Company with Financial tech.
+
 <!--
 **jjguitar/jjguitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
